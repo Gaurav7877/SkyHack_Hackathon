@@ -1,0 +1,68 @@
+,Head,Factors,Total Counts,Satisfied Count,Disatisfied Count,Factor Contribution Percent,Factor Affect
+4060,origin_station_code,DEX,3215,1285,1930,9.2,35.88
+4062,origin_station_code,EWX,4011,1278,2733,11.47,-48.29
+4063,origin_station_code,LAX,1582,532,1050,4.53,-11.05
+4067,origin_station_code,ORX,3131,1228,1903,8.96,28.22
+4072,origin_station_code,SFX,2553,846,1707,7.3,-21.39
+4085,origin_station_code,CLX,241,123,118,0.69,10.33
+4160,origin_station_code,HNX,610,151,459,1.75,-19.81
+4186,origin_station_code,TLX,304,58,246,0.87,-14.78
+4272,destination_station_code,DEX,3136,1198,1938,8.97,19.11
+4280,destination_station_code,IAX,5005,2027,2978,14.32,63.44
+4281,destination_station_code,EWX,5018,1632,3386,14.35,-50.94
+4284,destination_station_code,SFX,2915,972,1943,8.34,-22.77
+4312,destination_station_code,MCX,444,209,235,1.27,13.97
+4372,destination_station_code,LHX,769,221,548,2.2,-16.13
+4485,scheduled_departure_date,9/3/2022,1218,491,727,3.48,14.76
+4486,scheduled_departure_date,9/4/2022,1142,447,695,3.27,10.04
+4492,scheduled_departure_date,9/10/2022,1362,527,835,3.9,10.22
+4493,scheduled_departure_date,9/11/2022,1177,383,794,3.37,-11.9
+4495,scheduled_departure_date,9/13/2022,1214,487,727,3.47,14.05
+4513,arrival_delay_group,Medium_Early,7191,2712,4479,20.57,33.73
+4514,arrival_delay_group,Small_Delay,9476,3221,6255,27.11,-56.39
+4515,arrival_delay_group,Small_Early,15964,6017,9947,45.67,73.99
+4516,arrival_delay_group,Long_Delay,499,109,390,1.43,-20.35
+4518,arrival_delay_group,Medium_Delay,1031,247,784,2.95,-35.72
+4519,cabin_code_desc,Economy,15842,5793,10049,45.32,22.66
+4520,cabin_code_desc,Business,10741,4012,6729,30.73,39.33
+4521,cabin_code_desc,Economy Plus,7270,2400,4870,20.8,-63.65
+4523,entity,Domestic,23851,8813,15038,68.23,60.04
+4526,entity,Atlantic,7627,2552,5075,21.82,-56.95
+4527,number_of_legs,2,11571,4275,7296,33.1,29.13
+4529,number_of_legs,1,22881,8139,14742,65.45,-32.73
+4531,seat_factor_band,90+,23723,8394,15329,67.86,-46.82
+4533,seat_factor_band,0 to 70,2439,994,1445,6.98,32.67
+4534,loyalty_program_level,not-member,9380,3555,5825,26.83,49.1
+4535,loyalty_program_level,premier platinum,1773,562,1211,5.07,-22.16
+4536,loyalty_program_level,non-elite,14705,5343,9362,42.07,10.94
+4538,loyalty_program_level,premier gold,2337,790,1547,6.69,-15.19
+4539,loyalty_program_level,premier 1k,2816,936,1880,8.06,-22.81
+4541,generation,Gen X,11088,3962,7126,31.72,-10.78
+4542,generation,Boomer,16366,5959,10407,46.82,15.92
+4545,generation,Millennial,4979,1735,3244,14.24,-17.37
+4548,fleet_type_description,A319-100,2064,850,1214,5.9,30.15
+4551,fleet_type_description,B737-800,4146,1577,2569,11.86,23.36
+4555,fleet_type_description,B737-900,5342,2019,3323,15.28,26.28
+4561,fleet_type_description,B777-200,3663,1182,2481,10.48,-39.82
+4565,fleet_type_description,B787-10,1043,332,711,2.98,-12.64
+4567,fleet_type_description,B787-9,1944,606,1338,5.56,-27.24
+4573,equipment_type_code,19F,1312,540,772,3.75,19.09
+4577,equipment_type_code,73Y,2996,1159,1837,8.57,22.37
+4584,equipment_type_code,37K,4982,1868,3114,14.25,20.23
+4585,equipment_type_code,19G,752,310,442,2.15,11.07
+4601,equipment_type_code,77E,1156,364,792,3.31,-15.16
+4603,equipment_type_code,77U,854,267,587,2.44,-11.74
+4604,equipment_type_code,78J,1043,332,711,2.98,-12.64
+4607,equipment_type_code,78P,1822,567,1255,5.21,-25.79
+4611,haul_type,Short,4208,1415,2793,12.04,-29.38
+4612,haul_type,Medium,21038,8002,13036,60.18,118.55
+4613,haul_type,Long,9711,3192,6519,27.78,-88.9
+4614,international_domestic_indicator,Domestic,23848,8813,15035,68.22,60.03
+4615,international_domestic_indicator,International,11109,3796,7313,31.78,-60.38
+4616,response_group,non-member,9433,3576,5857,26.98,49.64
+4617,response_group,member,25524,9033,16491,73.02,-49.65
+4618,media_provider,PANASONIC,18148,6385,11763,51.92,-46.21
+4620,media_provider,THALES,10157,3815,6342,29.06,43.3
+4621,media_provider,VIASAT,3093,1160,1933,8.85,12.66
+4622,hub_spoke,spoke departure,16657,6053,10604,47.65,12.87
+4623,hub_spoke,hub departure,18300,6556,11744,52.35,-12.56
