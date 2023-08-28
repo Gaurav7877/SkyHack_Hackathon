@@ -19,6 +19,9 @@ In this project, I used:
 4. NumPy: This is another Python library used for numerical operations. It's essential for handling large arrays or matrices efficiently.
 5. Microsoft Excel: This is a widely used spreadsheet software for data analysis and I mainly used it for visualizing the data I extracted in jupyter notebook.
 
+## Project Video
+https://drive.google.com/file/d/1rCrH6Fi926mi7E8Uz82pgltiakpI9DIT/view?usp=sharing
+
 ## Project Information
 I have uploaded all files related to this project in this repository.
 1. To see the source file please check inside the UA_SkyHack folder.
